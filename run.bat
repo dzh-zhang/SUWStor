@@ -1,1 +1,1 @@
-UWRNOM.exe 13 1 3 input
+UWRNOM-x64.exe 13 1 3 input
