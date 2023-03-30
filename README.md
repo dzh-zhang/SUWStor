@@ -1,6 +1,6 @@
 # SUWStor
 
-This software contains a fast and multi-objective optimization model for the urban wastewater system. Please refer to the user manual provided above for usage. An application of the model to a real world case study can be found in the following academic paper:
+This software contains a fast and multi-objective optimization model to design an urban wastewater system. Please refer to the user manual provided above for instructions. An application of the model to a real world case study can be found in the following academic paper:
 
 Zhang D, Dong X, Zeng S, Wang X, Gong D and Mo L. (2023) Wastewater reuse and energy saving require a more decentralized urban wastewater system? Evidence from multi-objective optimal design at the city scale. Water Research, (in press). https://doi.org/10.1016/j.watres.2023.119923
 
